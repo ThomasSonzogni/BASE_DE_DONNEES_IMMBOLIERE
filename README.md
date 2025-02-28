@@ -31,3 +31,27 @@ Centre-Val de Loire 🌳 : Cette région possède la plus grande superficie de t
 # Structure du projet 📂
 
 La structure du projet est organisée de manière à faciliter l’accès aux différentes ressources et scripts :
+
+BASE_DE_DONNÉE_IMMOBILIERE/
+│── data/                      # Données sources en format CSV
+│   │── biens.csv              # Liste des biens immobiliers
+│   │── Communes.csv           # Informations sur les communes
+│   │── departement.csv        # Informations sur les départements
+│   │── donnees_de_base.zip    # Archive contenant les données de base
+│   │── région.csv             # Informations sur les régions
+│   │── ventes.csv             # Historique des ventes immobilières
+│
+│── documentation_bdd/         # Documentation sur la base de données
+│   │── bdd_sql/               # Dossier avec la base SQL
+│   │── Dictionnaire_de_donnees.xlsx  # Dictionnaire des données
+│   │── schema_relationnel_base_de_donnee_immo.png  # Schéma relationnel de la BDD
+│
+│── presentation/              # Présentation du projet
+│   │── support_presentation_requete_base_immo.pptx  # Présentation PowerPoint
+│
+│── requetes/                  # Scripts SQL
+│   │── creation_bdd.sql       # Script de création de la base de données
+│   │── requetes_bdd.sql       # Requêtes SQL pour l'exploitation des données
+│
+│── .gitignore                 # Fichier pour ignorer certains fichiers dans Git
+│── README.md                  # Documentation principale du projet
