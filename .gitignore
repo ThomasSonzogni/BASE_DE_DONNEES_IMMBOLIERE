@@ -1,0 +1,34 @@
+# Ignorer les fichiers de base de données SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignorer les fichiers de configuration sensibles
+config.json
+config.yml
+.env
+
+# Ignorer les fichiers de sauvegarde ou de dump de base de données
+*.bak
+*.sql
+*.dump
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Ignorer l'environnement virtuel
+venv/
+env/
+.venv/
+
+# Ignorer les fichiers d'IDE (ex: VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignorer les fichiers de système (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db

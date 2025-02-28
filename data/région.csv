@@ -1,0 +1,20 @@
+﻿region_code;reggrp_nom;reg_nom
+94;Province;Corse
+93;Province;Provence-Alpes-Côte d'Azur
+84;Province;Auvergne-Rhône-Alpes
+76;Province;Occitanie
+75;Province;Nouvelle-Aquitaine
+53;Province;Bretagne
+52;Province;Pays de la Loire
+44;Province;Grand Est
+32;Province;Hauts-de-France
+28;Province;Normandie
+27;Province;Bourgogne-Franche-Comté
+24;Province;Centre-Val de Loire
+11;Ile-de-France;Ile-de-France
+06;DROM-COM;Mayotte
+04;DROM-COM;La Réunion
+03;DROM-COM;Guyane
+02;DROM-COM;Martinique
+01;DROM-COM;Guadeloupe
+00;DROM-COM;Collectivités d'outre-mer
